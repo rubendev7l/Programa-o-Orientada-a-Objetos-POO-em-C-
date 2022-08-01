@@ -1,0 +1,15 @@
+C:\Users\Ruben\workspace\DIO\DotnetPOO\bin\Debug\net6.0\DotnetPOO.exe
+C:\Users\Ruben\workspace\DIO\DotnetPOO\bin\Debug\net6.0\DotnetPOO.deps.json
+C:\Users\Ruben\workspace\DIO\DotnetPOO\bin\Debug\net6.0\DotnetPOO.runtimeconfig.json
+C:\Users\Ruben\workspace\DIO\DotnetPOO\bin\Debug\net6.0\DotnetPOO.dll
+C:\Users\Ruben\workspace\DIO\DotnetPOO\bin\Debug\net6.0\DotnetPOO.pdb
+C:\Users\Ruben\workspace\DIO\DotnetPOO\obj\Debug\net6.0\DotnetPOO.csproj.AssemblyReference.cache
+C:\Users\Ruben\workspace\DIO\DotnetPOO\obj\Debug\net6.0\DotnetPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruben\workspace\DIO\DotnetPOO\obj\Debug\net6.0\DotnetPOO.AssemblyInfoInputs.cache
+C:\Users\Ruben\workspace\DIO\DotnetPOO\obj\Debug\net6.0\DotnetPOO.AssemblyInfo.cs
+C:\Users\Ruben\workspace\DIO\DotnetPOO\obj\Debug\net6.0\DotnetPOO.csproj.CoreCompileInputs.cache
+C:\Users\Ruben\workspace\DIO\DotnetPOO\obj\Debug\net6.0\DotnetPOO.dll
+C:\Users\Ruben\workspace\DIO\DotnetPOO\obj\Debug\net6.0\refint\DotnetPOO.dll
+C:\Users\Ruben\workspace\DIO\DotnetPOO\obj\Debug\net6.0\DotnetPOO.pdb
+C:\Users\Ruben\workspace\DIO\DotnetPOO\obj\Debug\net6.0\DotnetPOO.genruntimeconfig.cache
+C:\Users\Ruben\workspace\DIO\DotnetPOO\obj\Debug\net6.0\ref\DotnetPOO.dll
